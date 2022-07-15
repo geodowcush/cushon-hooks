@@ -1,0 +1,4 @@
+- id: coverage
+  name: Php coverage check
+  entry: ./hooks/coverage.sh
+  language: script
